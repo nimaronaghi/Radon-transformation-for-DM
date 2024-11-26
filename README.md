@@ -30,6 +30,8 @@ It supports converting data into astronomical coordinates and creating a Mollwei
 
 ## Example
 
+**Note:** The data used in this project cannot be provided, as it originates from a University of Alberta project and is subject to institutional restrictions.
+
 Input: [Description of input data structure]
 
 Output: [Example of the Mollweide sky map or transformed data]
