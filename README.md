@@ -25,7 +25,7 @@ It supports converting data into astronomical coordinates and creating a Mollwei
    pip install -r requirements.txt
    ```
 3. Run the notebook:
-   - Open `ft.ipynb` in Jupyter Notebook or Jupyter Lab.
+   - Open `rt.ipynb` in Jupyter Notebook or Jupyter Lab.
    - Follow the instructions in the notebook to execute the code.
 
 ## Example
